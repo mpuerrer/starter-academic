@@ -51,9 +51,9 @@ experience:
     company_url: 'https://www.cardiff.ac.uk'
     company_logo: Cardiff_University_logo
     location: Cardiff, United Kingdom
-    date_start: '2015-08-31'
-    date_end: '2012-02-01'
-    description: Binary black hole numerical simulations and phenomenological waveform models.
+    date_start: '2012-02-01'
+    date_end: '2015-08-31'
+    description: Perform binary black hole numerical simulations and build phenomenological waveform models.
 
 design:
   columns: '2'
